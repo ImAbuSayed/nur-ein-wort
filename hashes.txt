@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nur ein Wort
+
+This log tracks the cryptographic history and versioning for the song **Nur ein Wort** (nur-ein-wort).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-29T00:52:52.370282 | `v1` | `b24aa3d52b7068337ac6e76eab034ea00ad158895fb77ff54d62f20f96e650a7` | `e99a11da416028d1f969ffc89613c5401d0bf0d828fc174c04c0d75df786a4c5` | `2026-06-29_nur-ein-wort-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
