@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Stadt ist laut, doch ich hör' nur deinen Atem, Babe
+> Guck, die Sterne funkeln, aber keiner strahlt wie du
+> Nur ein Wort von dir und ich lass' den Motor starten, Babe
+> Wir lassen alles hinter uns und fliegen auf das Rooftop zu
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
